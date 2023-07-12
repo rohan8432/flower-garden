@@ -173,7 +173,7 @@
     padding-top: 30px;
 }
 
-/* sixth section banner style */
+/* sixth section style */
 #instagram {
     text-align: center;
     padding-top: 70px;
@@ -191,7 +191,7 @@
     padding-top: 20px;
 }
 
-/* seventh section banner style */
+/* seventh section style */
 #flower-item-list {
     display: flex;
     justify-content: center;
@@ -273,17 +273,21 @@ footer {
     color: white;
     text-align: center;
 }
-.flower-shop-title{
+
+.flower-shop-title {
     font-family: 'Poppins', sans-serif;
 }
-.shop-color{
+
+.shop-color {
     color: #cc699c;
 }
-.flower-shop-description{
+
+.flower-shop-description {
     font-size: 15px;
     padding-top: 20px;
 }
-.flower-shop-copyright{
+
+.flower-shop-copyright {
     color: gray;
     font-size: 12px;
     font-family: 'Poppins', sans-serif;
