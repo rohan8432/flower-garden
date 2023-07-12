@@ -228,6 +228,7 @@
 .deals-coupon {
     color: rgb(88, 84, 84);
 }
+
 /* included deals image form style */
 .form {
     text-align: center;
@@ -257,4 +258,34 @@
     border: none;
     font-size: 19px;
     font-family: 'Poppins', sans-serif;
+}
+
+/* footer section  style */
+footer {
+    height: 400px;
+    background-color: rgb(19, 15, 15);
+
+}
+
+#flower-shop {
+    font-size: 30px;
+    padding-top: 50px;
+    color: white;
+    text-align: center;
+}
+.flower-shop-title{
+    font-family: 'Poppins', sans-serif;
+}
+.shop-color{
+    color: #cc699c;
+}
+.flower-shop-description{
+    font-size: 15px;
+    padding-top: 20px;
+}
+.flower-shop-copyright{
+    color: gray;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 20px;
 }
