@@ -54,7 +54,7 @@
 }
 
 /* second section style */
-.flower-feature {
+#flower-feature {
     text-align: center;
     padding-top: 70px;
 }
@@ -72,14 +72,14 @@
 }
 
 /* third section flower list style */
-.flower-list {
+#flower-list {
     display: flex;
     justify-content: center;
     padding-top: 70px;
     font-family: 'Poppins', sans-serif;
 }
 
-.flower-list img {
+#flower-list img {
     height: 283px;
     width: 250px;
     padding-top: 70px;
@@ -119,7 +119,7 @@
 }
 
 /* fourth section style */
-.delivery-support {
+#delivery-support {
     height: 178px;
     margin: 0 228px;
     background-color: #ffc0cb54;
@@ -150,7 +150,7 @@
     align-items: center;
 }
 
-/* banner title style */
+/* banner title and description style */
 .banner2-title {
     font-size: 20px;
     font-family: 'Poppins', sans-serif;
@@ -171,4 +171,33 @@
     height: 359px;
     width: 283px;
     padding-top: 30px;
+}
+/* sixth section banner style */
+#instagram {
+    text-align: center;
+    padding-top: 70px;
+}
+
+/* included instagram heading style */
+.instagram-heading {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* included feature description style */
+.instagram-description {
+    font-size: 15px;
+    padding-top: 20px;
+}
+/* seventh section banner style */
+#flower-item-list{
+    display: flex;
+    justify-content: center;
+}
+#flower-item-list img{
+    height:283px;
+    width: 250px;
+    margin: 60px 10px;
+  
+
 }
